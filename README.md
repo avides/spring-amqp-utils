@@ -1,4 +1,4 @@
-xpath-utils
+spring-amqp-utils
 ===========
 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.avides.spring/spring-amqp-utils/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.avides.spring/spring-amqp-utils)
