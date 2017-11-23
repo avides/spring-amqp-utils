@@ -2,7 +2,7 @@ spring-amqp-utils
 ===========
 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.avides.spring/spring-amqp-utils/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.avides.spring/spring-amqp-utils)
-[![Codacy Badge](https://api.codacy.com/project/badge/grade/49fe00fd4ec843b6ac21b2d3996f2de9)](https://www.codacy.com/app/developer_6/spring-amqp-utils)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/221cdc226d2a4724947e929fa20bbc0b)](https://www.codacy.com/app/avides-builds/spring-amqp-utils?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=avides/spring-amqp-utils&amp;utm_campaign=Badge_Grade)
 [![Coverage Status](https://coveralls.io/repos/github/avides/spring-amqp-utils/badge.svg?branch=master)](https://coveralls.io/github/avides/spring-amqp-utils?branch=master)
 [![Build Status](https://travis-ci.org/avides/spring-amqp-utils.svg?branch=master)](https://travis-ci.org/avides/spring-amqp-utils)
 
