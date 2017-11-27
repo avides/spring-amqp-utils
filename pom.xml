@@ -5,7 +5,7 @@
 	<name>spring-amqp-utils</name>
     <description>Provides some utility-methods to simplify the use of Spring Amqp</description>
     <url>https://github.com/avides/spring-amqp-utils</url>
-	<version>1.0.0.RELEASE</version>
+	<version>1.0.1.RELEASE</version>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -15,7 +15,7 @@
 		<build.number></build.number>
 		<timestamp>${maven.build.timestamp}</timestamp>
 		<maven.build.timestamp.format>dd.MM.yyyy HH:mm</maven.build.timestamp.format>
-		<spring.amqp.version>1.7.4.RELEASE</spring.amqp.version>
+		<spring.amqp.version>2.0.0.RELEASE</spring.amqp.version>
 		<junit.version>4.12</junit.version>
         <assertj.version>3.8.0</assertj.version>
 		<cobertura.version>2.7</cobertura.version>

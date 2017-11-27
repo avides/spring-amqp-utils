@@ -11,7 +11,7 @@ spring-amqp-utils
 <dependency>
     <groupId>com.avides.spring</groupId>
     <artifactId>spring-amqp-utils</artifactId>
-    <version>1.0.0.RELEASE</version>
+    <version>1.0.1.RELEASE</version>
 </dependency>
 ```
 #### Available methods
